@@ -8,7 +8,7 @@
 😋 直播源来自|**芒果官方**
 
 **m3u订阅地址：** `https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.m3u`
-**txt订阅地址：** 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.txt'
+** 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.txt'
 
 m3u8:http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=id
 
