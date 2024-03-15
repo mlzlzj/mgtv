@@ -1,18 +1,18 @@
 import subprocess
-
+from datetime import datetime
 
 def generate_m3u8_stream_with_info(urls, info_list):
     if len(urls) != len(info_list):
         raise ValueError("URLs and info list should have the same length")
 # 生成m3u文件
-    # m3u8_content = "#EXTM3U x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
-    # for index, (url, info) in enumerate(zip(urls, info_list)):
-    #     tvg_id = info.get("tvg-id", "")
-    #     tvg_name = info.get("tvg-name", "")
-    #     tvg_logo = info.get("tvg-logo", "")
-    #     m3u8_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title=\"湖南\",{tvg_name} \n{url}\n'
-    # with open("mgtv.m3u", "w") as file:
-    #     file.write(m3u8_content)
+    m3u8_content = "#EXTM3U x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
+    for index, (url, info) in enumerate(zip(urls, info_list)):
+        tvg_id = info.get("tvg-id", "")
+        tvg_name = info.get("tvg-name", "")
+        tvg_logo = info.get("tvg-logo", "")
+        m3u8_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title=\"湖南\",{tvg_name} \n{url}\n'
+    with open("mgtv.m3u", "w") as file:
+        file.write(m3u8_content)
         
  # 生成txt文件
     m3u8_content = "x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
@@ -21,10 +21,11 @@ def generate_m3u8_stream_with_info(urls, info_list):
         tvg_name = info.get("tvg-name", "")
         tvg_logo = info.get("tvg-logo", "")
         m3u8_content += f'{tvg_name}, \n{url}\n'
-
     with open("mgtv.txt", "w") as file:
         file.write(m3u8_content)
-
+        now = datetime.now()
+        file.write(f"更新时间,#genre#\n")
+        file.write(f"{now.strftime("%Y-%m-%d %H:%M:%S")},url\n")
 
 stream_info_list = [
     {
@@ -108,13 +109,13 @@ stream_info_list = [
     {
         "tvg-id": "254",
         "tvg-name": "长沙政法",
-        "tvg-logo": "https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/cszf.png",
+        "tvg-logo": "https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cszf.png",
         "filename": "hn14.m3u8",
     },
     {
         "tvg-id": "230",
         "tvg-name": "长沙女性",
-        "tvg-logo": "https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/csnx.png",
+        "tvg-logo": "https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/csnx.png",
         "filename": "hn15.m3u8",
     },
 ]
