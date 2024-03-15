@@ -5,7 +5,7 @@ def generate_m3u8_stream_with_info(urls, info_list):
     if len(urls) != len(info_list):
         raise ValueError("URLs and info list should have the same length")
 
-    m3u8_content = "#EXTM3U x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/arbaleast/mgtv/main/mgtv.xml\"\n"
+    m3u8_content = "#EXTM3U x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
     for index, (url, info) in enumerate(zip(urls, info_list)):
         tvg_id = info.get("tvg-id", "")
         tvg_name = info.get("tvg-name", "")
