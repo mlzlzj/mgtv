@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
-<tv generator-info-name="https://github.com/arbaleast/IPTV" generator-info-url="arbaleast@github.com">
+<tv generator-info-name="https://github.com/mlzlzj/mgtv" generator-info-url="vjfchen@sina.com">
   <channel id="hn01">
     <display-name lang="zh">
       湖南经视
