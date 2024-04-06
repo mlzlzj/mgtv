@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 #EXTINF:-1 tvg-id="280" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnjs.png" group-title="湖南",湖南经视 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9OWY0YjRjMjg1MTNhMWZkNzJmZWY5NzFmNzFiODkwNjEmZXM9MTcxMjM5ODg0NSZ1dWlkPWNhMmRhOGJhOTA0N2MwYzc2Mzk0M2Y5YjQ5NDRmMTViLTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNJSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTQyNjVkZTAyMTE3MTQ5MGJkNGM3OGQyNjY5NjYyOTA1JmVzPTE3MTI0MjAzMTkmdXVpZD0xNDliMmYwYTkwODI1OTc4ZGM2M2RmMWQxNWQwNWU1OC0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnds.png" group-title="湖南",湖南都市 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9ZjQ2MTI2ODRkZjA1ZmVmZmI1ZTE0Y2M2YjkzNmM0ZjImZXM9MTcxMjM5ODg0NSZ1dWlkPTI0ZTI0ZTIzNmMyYjAxM2UwNTdkMjllYTc4ZTdjMjkyLTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTI5NjI2YzFjNWEzNjhjZjVhYjg0YWU1M2VlNTJiNjFjJmVzPTE3MTI0MjAzMjAmdXVpZD03ZWU4YmNjYTg5OTY3YmQ0OGRiMmQ5NDY1MjUzMDk2Yy0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 tvg-id="484" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hndsj.png" group-title="湖南",湖南电视剧 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9NDA2NGMwMDViYzVmZjg1NGJjZDY0Y2U5ZTZjZDRlZjcmZXM9MTcxMjM5ODg0NiZ1dWlkPTExZWUwMDc4Y2Q5YWFmNjk1OWMyNGEzZTY5YjA3ZmI0LTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSJMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTI4Yjg0YzVhZDIyMjdiMDk2OWM5MDQ5MzAyMzg4M2M1JmVzPTE3MTI0MjAzMjEmdXVpZD1mZDlmY2FkMDVkMDFhZTc5ZmI5YWIyN2I5MjRmNGZkZi0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="湖南公共" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hngg.png" group-title="湖南",湖南公共 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9Zjc1ZWJkYTYzOTZjNWY2ZmJmOTY3M2ZjODc3YTBkM2EmZXM9MTcxMjM5ODg0NyZ1dWlkPTEzODc3ZmUxMTdiMzU0NTRjMWQwMmYyMjgxYTBiM2MyLTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNGGMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTJkNDY2MzdiYTVkY2E5MDYzZWM4ZTMxYjM2ZDBjZjkzJmVzPTE3MTI0MjAzMjImdXVpZD0wYWM4ZTBlNmFlNDI2MjE0OGY3MDFhZTY5YTQ0YjA3My0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hngj.png" group-title="湖南",湖南国际 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9OGJkNjUyNmIyNmE1MDY0YmNkOGFhZDJjOWQwZWYxOWQmZXM9MTcxMjM5ODg0OCZ1dWlkPWUyZTRiYzY4NmNjMTdiZjMyNzJlZGJmNDVmYjA1ZjFkLTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNGJMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPWUwMGEzMzY1YjAzMmVjOTY4ODEyMDMyNGEwYWRiZmQ0JmVzPTE3MTI0MjAzMjMmdXVpZD00ZjY0NGMxNjk5NTE2MTNhOTBjYWFjZTQ5MGE5ZGUwNi0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="344" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnyl.png" group-title="湖南",湖南娱乐 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9MjE4NmE5MWY4Y2JmN2RhZjIwNjdmNzc4ZjIyZDJkY2ImZXM9MTcxMjM5ODg0OCZ1dWlkPWExMzhjOTVmNmJmMThiYjZiMWJjNzMxOTI0ZjY4MTFiLTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNYLMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTMzZmZkOWRlODY4MjRhNDkxMjQzZDMzM2NhNTJmMmQyJmVzPTE3MTI0MjAzMjMmdXVpZD1iOTU3OTM4NzEwOGVhM2NkNTFhOTM1OTQzZTY1MzlmYS0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="快乐购" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnklg.png" group-title="湖南",快乐购 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9YzEwZDk0ZWY4OTA5Y2YzZGQ0MTUyNmYxNmQwY2VkYzUmZXM9MTcxMjM5ODg0OSZ1dWlkPTE2ZjkyNWIxMWFlMDQ2ZDJhNzFjOWU5YTlkNzQ4NGE2LTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/KLGMPP360.m3u8
+http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTNiODhkODQ1ZjQ0Y2IxZDM0YTk1MzU0MjE0N2JiODA3JmVzPTE3MTI0MjAzMjQmdXVpZD00YzE2YjUzOGEzNGZhNjZmOTM3ZmQ4NDQzOTJiY2U5My0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/KLGMPP360.m3u8
 #EXTINF:-1 tvg-id="578" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cpd.png" group-title="湖南",茶频道 
 None
 未能获取到直播URL, 请检查网络或参数设置。
 #EXTINF:-1 tvg-id="316" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jyjs.png" group-title="湖南",金鹰纪实 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9ZmIwZTk3MTEyZDRhNzVjMGY3OTBjNDQ5MTMxYzY0OGMmZXM9MTcxMjM5ODg1MCZ1dWlkPTE5NzAxNDUxYzE5MTU0NzVmNmMwOTAwYTI1NjM1OGVmLTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/JYJSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTZhYWRiMzAyMjVlODBlNjYzOWQyMzU0MGI1NGEwNGY3JmVzPTE3MTI0MjAzMjYmdXVpZD1hYWQxOGYxNTFmYWFmZDlhNDVjOTlhODY5NjQ4MzFhYS0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
 #EXTINF:-1 tvg-id="287" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jykt.png" group-title="湖南",金鹰卡通 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS43MSZxaWQ9JnM9MTI5NGUwMzE3NTYzNDBmMjBlNTdiMjY2ZGE2NmQ5MGQmZXM9MTcxMjM5ODg1MSZ1dWlkPTYyZDRhYTYyMzkzMjI1MWRiMjE1MTQ4ZWFjYzY5NmQ1LTE0NTE5ZjQ3JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/JYKTMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xMzMmcWlkPSZzPTFlODg4ODk5Mjk5MzNkZmJjNjZlYjcyNjVkODAyOGM0JmVzPTE3MTI0MjAzMjcmdXVpZD1iZWVmNGQ2ODJkNjdjYTY0YTcwYjhiZjk2ZjhlZTE0Yi0yODRjNzc4NSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
 #EXTINF:-1 tvg-id="218" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/klcd.png" group-title="湖南",快乐垂钓 
 None
 未能获取到直播URL, 请检查网络或参数设置。
