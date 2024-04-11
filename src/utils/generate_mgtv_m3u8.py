@@ -15,7 +15,7 @@ def generate_m3u8_stream_with_info(urls, info_list):
         file.write(m3u8_content)
         
  # 生成txt文件
-    # m3u8_content = "x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
+    m3u8_content = "x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
     for index, (url, info) in enumerate(zip(urls, info_list)):
         tvg_id = info.get("tvg-id", "")
         tvg_name = info.get("tvg-name", "")
