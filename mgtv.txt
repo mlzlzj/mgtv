@@ -35,3 +35,41 @@ None
 #EXTINF:-1 tvg-id="230" tvg-name="长沙女性" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/csnx.png" group-title="湖南",长沙女性 
 None
 未能获取到直播URL, 请检查网络或参数设置。
+湖南经视, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPTM3NzkzMzU0NmZiNmZkMzIwYWUxYzRmNzY1NDI1NGE3JmVzPTE3MTI4NDk2MDQmdXVpZD02MzgyNWYxNzcwYjY3MTVjNGQ2NmYzODg4MGVjODNhOS0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+湖南都市, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPWRhZDA1NzhiM2Y2OTdiZmIzYWJiOTFiMjdhZWE1ZWI4JmVzPTE3MTI4NDk2MDUmdXVpZD1lOWEyZGMyN2NmMjdkY2UwZTVkYWNiMTQyNzdlOTIwYS0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
+湖南电视剧, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPTFiOTNkNzE5ZWQyZTIwNDNlOTg3MDljNTFlMDU3MDQ2JmVzPTE3MTI4NDk2MDcmdXVpZD1kZjM4NGUwNDJjZTgyNDljOTljNGUyMzc4YzJlOTc1Mi0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
+湖南公共, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPWM0ZTc5MjY1MmRjYmU5MjhiYWJhNTExYzJiOTBhNjdiJmVzPTE3MTI4NDk2MDgmdXVpZD1mODdiN2NmMTQzNWViMjNhMjljMDM5NzAxYTFhYzcyYi0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
+湖南国际, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPTllY2ZlNTg5NTVmMTQyN2FhNTdlNTc0NWQ4MWRhYzA4JmVzPTE3MTI4NDk2MDkmdXVpZD0zZDA0NWQwMGM1M2Q5MjMxMjI2ZmE3ODExZDNjYzQ1OS0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
+湖南娱乐, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPTAyZDQ2ZDdmMTNlZDgwZmY2NmY1MjNmZWIwMGU3Yzk3JmVzPTE3MTI4NDk2MDkmdXVpZD0zYmQ4NGFmNmE1NDljZTUyY2I0ZmY5ODQxMDZhNzc2Yy0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
+快乐购, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPTQwMGI2NzBlNWEwMjRlM2FkNjM3ODhmMWIwMDJlYjcwJmVzPTE3MTI4NDk2MTAmdXVpZD00NzYxNDlmNmU4NzgwZjU1NDJkM2Q0YTdiNGU0YmM0NS0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/KLGMPP360.m3u8
+茶频道, 
+None
+未能获取到直播URL, 请检查网络或参数设置。
+金鹰纪实, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPWNhOWVjZjYwNzE1N2JiNjkyYjFlMjJhYzgyMjQyZDliJmVzPTE3MTI4NDk2MTImdXVpZD00NWE3NDVkZWUxZTUzNWZlOTk0MmQ4NzA3Y2ZhZmVmZS0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
+金鹰卡通, 
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjUxLjE5OC4xNjEmcWlkPSZzPWEwZGI4YjkyMWYwNTNlY2M0MGQ1OTg5YmVhZmI0MGU5JmVzPTE3MTI4NDk2MTMmdXVpZD1mMzE5MmU5OTA3YzE2MGY0YWMxNTgzYTY4NDlkOWYwZi0xNDMzYzZhMSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
+快乐垂钓, 
+None
+未能获取到直播URL, 请检查网络或参数设置。
+先锋乒羽, 
+None
+未能获取到直播URL, 请检查网络或参数设置。
+长沙新闻, 
+None
+未能获取到直播URL, 请检查网络或参数设置。
+长沙政法, 
+None
+未能获取到直播URL, 请检查网络或参数设置。
+长沙女性, 
+None
+未能获取到直播URL, 请检查网络或参数设置。
+更新时间,#genre#
+2024-04-11 07:33:37,url
