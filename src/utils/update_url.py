@@ -2,7 +2,7 @@ import os
 import requests
 import sys # 接受外部传参
 
-# 发送HTTP请求并获取JSON数据
+# 发送HTTP请求并获取JSON数据（7-9行为代理IP转发，IP失效可删除3行即可）
 def get_live_url(channel_id):
     proxy= {
         'http': '47.114.101.57:8888',
