@@ -1,39 +1,33 @@
 x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 湖南经视, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9ZjI2NWZlYjVhN2VmZmYyMzBjZDE1YzM5ZGY5Yzc4NjYmZXM9MTcxNDkyNTkyMyZ1dWlkPTkzY2RlMWZjZTQ2MzVlMzFlNzE2NDU0ZWFjZTVjYWZhLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNJSMPP360.m3u8
+
 湖南都市, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9ODQyZTkzM2UzMTZjMjAxZjAwOTVmNTM1NTY1MWU1ZWMmZXM9MTcxNDkyNTkyNCZ1dWlkPWViMzY4OGM0NGI5YzI4YzkzZjEzYzE4ZjkxNTVkM2ZhLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSMPP360.m3u8
+
 湖南电视剧, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9NGRhMTQyZjVhZGIyMmZiMTk0MTgyNDM1NjkxODdmMGUmZXM9MTcxNDkyNTkyNSZ1dWlkPTVmNDE1MDI1NzhmNjgyMmIyMDk2NDMxMjVlNjhlMWUxLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSJMPP360.m3u8
+
 湖南公共, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9YWVlMmFkMDAyYTAzM2FkMWUyNzI4YTM3MGYwYjg3MWUmZXM9MTcxNDkyNTkyNSZ1dWlkPWNlOTU2YjhjNjAxZDE4MzAwZDQyZmY1MjczNmQxNWVlLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNGGMPP360.m3u8
+
 湖南国际, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9YTRjYjJkZmZjMDZlYjdkNTMzODA3ZDllNTQwYWYwMWMmZXM9MTcxNDkyNTkyNiZ1dWlkPTEyODRlYTE1NGU4ZWZhMzlmOGMwNDU1MDkwZmRmZmZiLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNGJMPP360.m3u8
+
 湖南娱乐, 
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9ZDQ1NDgzYzhjYTAzZGZlNTVmNjIxY2E3N2I5YzQyNmEmZXM9MTcxNDkyNTkyNyZ1dWlkPWU1YzNkMjU3OGFlM2ZhZWI0Y2JkNzk5OWI2MTkzYjc1LTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPWh3X3Bob25l/HNYLMPP360.m3u8
+
 快乐购, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9M2Q2OTU1ODZhMTkzODc5YmYyNThhMzE4YWU4MzFhZTQmZXM9MTcxNDkyNTkyNyZ1dWlkPTcxNmY2ZDE1NTJkYzY2OGFhMjY5MmM4N2U4OTYyODRlLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/KLGMPP360.m3u8
+
 茶频道, 
-None
-未能获取到直播URL, 请检查网络或参数设置。
+
 金鹰纪实, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9NjE2ZjJhMjU2ZGJiYThlN2ExNWI1YTM3NDIzOGU0ZmUmZXM9MTcxNDkyNTkyOSZ1dWlkPTA4YjkwMmRiMTllYzRlNjA3NzM0ODE1NzdhZjE3NmVkLTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/JYJSMPP360.m3u8
+
 金鹰卡通, 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjE3Mi40My45OSZxaWQ9JnM9ZTExNTM2ZDFiODA2MmYyYTVkYTI3NTQ2MGE5ZTI1NTImZXM9MTcxNDkyNTkyOSZ1dWlkPWQzNjk4MjI0MWY2YmYyZmUxM2QxYjRjM2IwMDg4ZGE1LTE0YWMyYjYzJnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/JYKTMPP360.m3u8
+
 快乐垂钓, 
-None
-未能获取到直播URL, 请检查网络或参数设置。
+
 先锋乒羽, 
-None
-未能获取到直播URL, 请检查网络或参数设置。
+
 长沙新闻, 
-None
-未能获取到直播URL, 请检查网络或参数设置。
+
 长沙政法, 
-None
-未能获取到直播URL, 请检查网络或参数设置。
+
 长沙女性, 
-None
-未能获取到直播URL, 请检查网络或参数设置。
+
 更新时间,#genre#
-2024-05-05 08:18:52,url
+2024-05-05 11:07:03,url
