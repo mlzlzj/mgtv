@@ -1,31 +1,68 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 #EXTINF:-1 tvg-id="280" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnjs.png" group-title="湖南",湖南经视 
-
+280 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=280
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTY0ZmE2NDg3NmNhYzljYjUyZGMxZjVjYWE5MTY3NjUyJmVzPTE3MTQ5MzYxNzgmdXVpZD1jMzU4YmEyOTkwZWIyYTAzZjRjYjc2YjcxMjcyZDViMS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnds.png" group-title="湖南",湖南都市 
-
+346 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=346
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTY3OWEyYmM5MjE2ZGY3Y2ZmNmQ5YTA2YzY2MDVhZTRkJmVzPTE3MTQ5MzYxNzkmdXVpZD03ZGJkNjA2ZmU1MzZjNGUwZmZhNDgyOWQ3MzUwYTYxNy0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTY3OWEyYmM5MjE2ZGY3Y2ZmNmQ5YTA2YzY2MDVhZTRkJmVzPTE3MTQ5MzYxNzkmdXVpZD03ZGJkNjA2ZmU1MzZjNGUwZmZhNDgyOWQ3MzUwYTYxNy0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 tvg-id="484" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hndsj.png" group-title="湖南",湖南电视剧 
-
+484 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=484
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWQ2NTA0MTcxMTQ5NzI5ZmZhZDQ3ZDg3YmYxMmNiOTk0JmVzPTE3MTQ5MzYxODAmdXVpZD1jYjdkMjMzNjkxMzI1YWQxOWZlYWE1ZTYxNDgyYzRmOS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWQ2NTA0MTcxMTQ5NzI5ZmZhZDQ3ZDg3YmYxMmNiOTk0JmVzPTE3MTQ5MzYxODAmdXVpZD1jYjdkMjMzNjkxMzI1YWQxOWZlYWE1ZTYxNDgyYzRmOS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="湖南公共" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hngg.png" group-title="湖南",湖南公共 
-
+261 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=261
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWY2ZjEzMGVmNzI0ZjU0MWZhZGUyNmEwNDc3YzQyYjNhJmVzPTE3MTQ5MzYxODEmdXVpZD1jM2FlZWMzNjBjMjczZmRlZmI5NTAxMmViNDRkODdlOS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWY2ZjEzMGVmNzI0ZjU0MWZhZGUyNmEwNDc3YzQyYjNhJmVzPTE3MTQ5MzYxODEmdXVpZD1jM2FlZWMzNjBjMjczZmRlZmI5NTAxMmViNDRkODdlOS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hngj.png" group-title="湖南",湖南国际 
-
+229 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=229
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTdlMTExZWJjNWQ5YzlkYTJiNDY1NjNjZDY1NDFlMGM4JmVzPTE3MTQ5MzYxODEmdXVpZD1iZDhiNTllNjA2YzY5NDM1NmYwODM5ZGE3NmU2YTQwZC0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTdlMTExZWJjNWQ5YzlkYTJiNDY1NjNjZDY1NDFlMGM4JmVzPTE3MTQ5MzYxODEmdXVpZD1iZDhiNTllNjA2YzY5NDM1NmYwODM5ZGE3NmU2YTQwZC0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="344" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnyl.png" group-title="湖南",湖南娱乐 
-
+344 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=344
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWE5MDVlYTBkNmMzNWRmZDQ3ZjBmOGFmOTI3ZWM2MGViJmVzPTE3MTQ5MzYxODImdXVpZD1lZjVhNzRiMzYzOWYzZTE5YjQ2NWI1ZGU0ZGE3ODhiYS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWE5MDVlYTBkNmMzNWRmZDQ3ZjBmOGFmOTI3ZWM2MGViJmVzPTE3MTQ5MzYxODImdXVpZD1lZjVhNzRiMzYzOWYzZTE5YjQ2NWI1ZGU0ZGE3ODhiYS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="快乐购" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnklg.png" group-title="湖南",快乐购 
-
+267 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=267
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWU4M2JkNmIyZmNkNjYxYTI2OTRhNDE4NjVkZDU4ZWE1JmVzPTE3MTQ5MzYxODMmdXVpZD0yODhiODNjMGRmZWQ5NjYxNzMyOWRhMDc1MjdhNjZhNi0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/KLGMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWU4M2JkNmIyZmNkNjYxYTI2OTRhNDE4NjVkZDU4ZWE1JmVzPTE3MTQ5MzYxODMmdXVpZD0yODhiODNjMGRmZWQ5NjYxNzMyOWRhMDc1MjdhNjZhNi0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/KLGMPP360.m3u8
 #EXTINF:-1 tvg-id="578" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cpd.png" group-title="湖南",茶频道 
-
+578 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=578
+None
+未能获取到直播URL, 请检查网络或参数设置。
 #EXTINF:-1 tvg-id="316" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jyjs.png" group-title="湖南",金鹰纪实 
-
+316 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=316
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWVkNDk0YzgzZTg5YWY0Mjk3OWZhNWVhZjY4NGI1NjFiJmVzPTE3MTQ5MzYxODUmdXVpZD1lZDIzZDM5ZWJjOTQ3MTcyNzBjMWJkNmY3NGI2MzhhNy0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPWVkNDk0YzgzZTg5YWY0Mjk3OWZhNWVhZjY4NGI1NjFiJmVzPTE3MTQ5MzYxODUmdXVpZD1lZDIzZDM5ZWJjOTQ3MTcyNzBjMWJkNmY3NGI2MzhhNy0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
 #EXTINF:-1 tvg-id="287" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jykt.png" group-title="湖南",金鹰卡通 
-
+287 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=287
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTdlZTlmYjIwZmRlNjFlZGNhZGQyZDQ2M2FjMDQyNTk4JmVzPTE3MTQ5MzYxODUmdXVpZD1kMmQyYjQzMmI2MWMwMDk2ODY1YmI5MDI0NDBmZTg2ZS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
+文件 {filename} 的URL已更新为：
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTQwLjc2LjExOS4xODQmcWlkPSZzPTdlZTlmYjIwZmRlNjFlZGNhZGQyZDQ2M2FjMDQyNTk4JmVzPTE3MTQ5MzYxODUmdXVpZD1kMmQyYjQzMmI2MWMwMDk2ODY1YmI5MDI0NDBmZTg2ZS0yODRjNzdiOCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
 #EXTINF:-1 tvg-id="218" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/klcd.png" group-title="湖南",快乐垂钓 
-
+218 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=218
+None
+未能获取到直播URL, 请检查网络或参数设置。
 #EXTINF:-1 tvg-id="329" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/xfpy.png" group-title="湖南",先锋乒羽 
-
+329 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=329
+None
+未能获取到直播URL, 请检查网络或参数设置。
 #EXTINF:-1 tvg-id="269" tvg-name="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/csxw.png" group-title="湖南",长沙新闻 
-
+269 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=269
+None
+未能获取到直播URL, 请检查网络或参数设置。
 #EXTINF:-1 tvg-id="254" tvg-name="长沙政法" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cszf.png" group-title="湖南",长沙政法 
-
+254 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=254
+None
+未能获取到直播URL, 请检查网络或参数设置。
 #EXTINF:-1 tvg-id="230" tvg-name="长沙女性" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/csnx.png" group-title="湖南",长沙女性 
-
+230 http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id=230
+None
+未能获取到直播URL, 请检查网络或参数设置。
