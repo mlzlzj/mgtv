@@ -31,8 +31,7 @@ jobs:
 
     - name: Extract URL
       run: |
-        python src/mgtv(txt).py
-        # python src/utils/generate_mgtv_m3u8.py
+       python src/utils/generate_mgtv_m3u8.py
     - name: Push
       run: |
           git config user.name mlzlzj
