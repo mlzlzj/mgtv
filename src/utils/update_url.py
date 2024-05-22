@@ -5,7 +5,7 @@ import sys # 接受外部传参
 # 发送HTTP请求并获取JSON数据（7-9行为代理IP转发，IP失效可删除3行即可）
 def get_live_url(channel_id):
     proxy= {
-        'http': '47.114.101.57:8888',
+        'http': '111.177.63.86:8888',
     }
     url = f'http://mpp.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlMPP?version=PCweb_1.0&platform=1&buss_id=2000001&channel_id={channel_id}'
     # print(channel_id, url)
