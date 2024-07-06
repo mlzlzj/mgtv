@@ -2,7 +2,7 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 湖南经视, 
 
 湖南都市, 
-http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9ZDNjNzUzYTczMDAyYjVhZjg1MzA0ZGIwZDhkOGY2ZjgmaD0xNzUuNi4xNS45JnV1aWQ9Yjg4MmM2YzQ0ZTA3ZDE3OWFiMjc4MmU5MWI5OWJkMTQtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMDI2MTkyNQ,,/HNDSMPP360.m3u8
+
 湖南电视剧, 
 
 湖南公共, 
@@ -16,7 +16,7 @@ http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9ZDNjNzUzYTc
 茶频道, 
 
 金鹰纪实, 
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9Y2U5YjY1OTgyNzZhYjE5YjIyYThhODg5OGY1M2NkYmUmZXM9MTcyMDI2Mzc3OCZ1dWlkPWRjOWFkYjJmNjk3NTg5ZDA4NmNhMGNjZGU0MmRmYjAwLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXFxX3Bob25lX2xpdmU,/JYJSMPP360.m3u8
+
 金鹰卡通, 
 
 快乐垂钓, 
@@ -24,8 +24,8 @@ http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9
 先锋乒羽, 
 
 长沙新闻, 
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MDgyZTMzNWYxZDdiOGZiZTNhMDg1YWZhMjlmZjZkYjUmZXM9MTcyMDI2NDY4MiZ1dWlkPTE2MTZjZGY5ZTg0NTYwZjUyYTAwOTg1MDJhYmQ3YjUxLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXFxX3Bob25lX2xpdmU,/CSXWMPP360.m3u8
+
 长沙政法, 
-http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MzY5ZWUyZWQwNGQ3MTQzZmVhYTM1YzA0YTNiMjIxNmMmZXM9MTcyMDI2NDcwNCZ1dWlkPTViYzZlM2JhY2UwYTE4MWY1YTg0NGEzZDgxNzM2NjNjLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPWFsX3Bob25lMw,,/CSZFMPP360.m3u8
+
 长沙女性, 
 
