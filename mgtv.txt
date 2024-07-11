@@ -8,7 +8,7 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 湖南公共, 
 
 湖南国际, 
-
+http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YjljZmJiMmY1YWEyNzFhMjgzNmFiNjUxMGVmMmJlZGImaD0xNzUuNi4xNS4xMiZ1dWlkPWMxNjJlNjc4NjM4NGY0MWFlNWM5ZjBkYmYyYTVhMDY5LWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjA3MTQ5Mjk,/HNGJMPP360.m3u8
 湖南娱乐, 
 
 快乐购, 
@@ -18,7 +18,7 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 金鹰纪实, 
 
 金鹰卡通, 
-
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9ZGMxOGYzZmJmN2IxMzg1ZDMxYzA1ZGIyMWVlN2QzMDImZXM9MTcyMDcxNDk0MSZ1dWlkPTY4YTM2NzBhNzRhNWU0NDY0YTY2MjdmNmRkMmY2NmI2LWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/JYKTMPP360.m3u8
 快乐垂钓, 
 
 先锋乒羽, 
