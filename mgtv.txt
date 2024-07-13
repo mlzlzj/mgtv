@@ -1,6 +1,6 @@
 x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 湖南经视, 
-
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MTcwNWYwOGZlNmYyMGYxZDY2ZGJkMTFjZGNjYTMzMDAmZXM9MTcyMDg2Njc5NyZ1dWlkPTQ2YTAxOGMwOTVlMWE4ZjVlYjU2ZWQyMTNkZDA5NjEwLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNJSMPP360.m3u8
 湖南都市, 
 
 湖南电视剧, 
