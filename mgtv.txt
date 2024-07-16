@@ -14,7 +14,7 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 快乐购, 
 
 茶频道, 
-http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9N2I1Njk4MzAzYTI5MTQyYTgwMDcyZWEzYTZiNzc1OTUmaD0xNzUuNi4xNS4xMyZ1dWlkPTFlNDBmNjRkNzlhZmI1YTU5OWNjMTU5OTU3NTM1MjNjLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjExMDM3MjU,/CPDMPP360.m3u8
+
 金鹰纪实, 
 
 金鹰卡通, 
@@ -24,8 +24,8 @@ http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9N2I1Njk4Mz
 先锋乒羽, 
 
 长沙新闻, 
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MmIwZTA3YWNlZjllNGY2NWUxOWM3MmZmM2Q2MmVkMzkmZXM9MTcyMTEwMzczOCZ1dWlkPTI1NTg5ZGJkNjAzYmRlNmFhYzIwZTliYzQyYmMyNjcwLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/CSXWMPP360.m3u8
+
 长沙政法, 
 
 长沙女性, 
-http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MWFmODA0NmJmNzBiNTQ3OWFmYjQ2MmUwOTIxNjBkNjUmaD0xNzUuNi4xNS45JnV1aWQ9MDE5OWNjZjkxZTZlMDU4NmJjN2QwZDJmMjczZDc2NTYtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMTEwMzc0Mg,,/CSNXMPP360.m3u8
+
