@@ -2,7 +2,7 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 湖南经视, 
 
 湖南都市, 
-
+http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NWZlYWNlN2I0NzQxZTc1NjlkZThkNDdjMDFhOTI1MmMmaD0xNzUuNi4xNS4xMiZ1dWlkPTAzMmQ4ZTI0YjY0OTg4NzVjYmMzZWNhMDRhOTFhNTAyLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjE0NzE1NTA,/HNDSMPP360.m3u8
 湖南电视剧, 
 
 湖南公共, 
@@ -28,4 +28,4 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 长沙政法, 
 
 长沙女性, 
-
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9OGJiZThhODIxODVmNTA0MDk4MTEzYjJiZDUyMjY2YzcmZXM9MTcyMTQ3MTU2MyZ1dWlkPTExMjE4OTIyZWQ5NmI0YTM2ZTFhZTc4NTk3NWMzMjk3LWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/CSNXMPP360.m3u8
