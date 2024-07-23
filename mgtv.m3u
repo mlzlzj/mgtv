@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 #EXTINF:-1 tvg-id="280" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnjs.png" group-title="湖南",湖南经视 
-
+http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9ZmZkNzJlYjcxZDRjMDg0NWFkNWNiZGNkMTQ3ZjJhZGQmaD0xNzUuNi4xNS45JnV1aWQ9MTkxN2Q5NTNjMDJhODNlZTdiMjhmYTFkNjU1NzRiODMtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMTc1MTgyMA,,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnds.png" group-title="湖南",湖南都市 
-
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YzVmNTEzNTEzNWEyOWMxZjQ4OTA1ZDhmNTc0MmMwYTUmZXM9MTcyMTc1MTgyMyZ1dWlkPWQ4NDZkMDFkNGNmMjEyNTUzNTQxZmFhM2MxMjk2ZjE4LWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNDSMPP360.m3u8
 #EXTINF:-1 tvg-id="484" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hndsj.png" group-title="湖南",湖南电视剧 
-http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MjcwM2Q5NzE4YTc1ODY3NzJiMmVmN2M3NDlhOGU4NGEmaD0xNzUuNi4xNS45JnV1aWQ9NGFmY2RlNzE3YTM1OGNmYTI1ODVmNzFhYWY4OTk3MmEtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMTczMDkxMQ,,/HNDSJMPP360.m3u8
+
 #EXTINF:-1 tvg-id="261" tvg-name="湖南公共" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hngg.png" group-title="湖南",湖南公共 
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YWEyMjRkZDQyZWNmYTBiNzg3MTY1MGVlMWY1ZDJlZTMmZXM9MTcyMTczMDkxMSZ1dWlkPTUwZWVmOWVhYTBiNzg4ODlhMDk5ZTU1OGU0ZjU1MGM0LWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXdzX3Bob25lMw,,/HNGGMPP360.m3u8
+
 #EXTINF:-1 tvg-id="229" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hngj.png" group-title="湖南",湖南国际 
 
 #EXTINF:-1 tvg-id="344" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnyl.png" group-title="湖南",湖南娱乐 
-
+http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MzVjMTYzODM2NDc4Yzg0ODAxYmRiNzc5MTk3MWZkZDUmaD0xNzUuNi4xNS4xMyZ1dWlkPTE5NTIyNmNmMTk4YTljMjExYzJmMDliM2U4ZWVjYzFkLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjE3NTE4Mjk,/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="快乐购" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnklg.png" group-title="湖南",快乐购 
 
 #EXTINF:-1 tvg-id="578" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cpd.png" group-title="湖南",茶频道 
-http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MjUwYzBlMjNkNzRkZDA1MTgxMDk0ZTQwZWI2YmQ4NjYmaD0xNzUuNi4xNS4xMiZ1dWlkPTE2ZTIxMDQzMWRhOGI2ZmZhZDJmZDgwYzVjYWQzZGE3LWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjE3MzA5MTU,/CPDMPP360.m3u8
+
 #EXTINF:-1 tvg-id="316" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jyjs.png" group-title="湖南",金鹰纪实 
 
 #EXTINF:-1 tvg-id="287" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jykt.png" group-title="湖南",金鹰卡通 
@@ -24,8 +24,8 @@ http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MjUwYzBlMj
 #EXTINF:-1 tvg-id="329" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/xfpy.png" group-title="湖南",先锋乒羽 
 
 #EXTINF:-1 tvg-id="269" tvg-name="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/csxw.png" group-title="湖南",长沙新闻 
-
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9N2NkOGUyMjU1OGY1YTRlMDViZGE3NjAxMjk5NmI3MmMmZXM9MTcyMTc1MTg0MyZ1dWlkPWZiMWRiYTFkZWZkZGM0NjJkNjBhZTg2MTljNjgzN2QxLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXFxX3Bob25lX2xpdmU,/CSXWMPP360.m3u8
 #EXTINF:-1 tvg-id="254" tvg-name="长沙政法" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cszf.png" group-title="湖南",长沙政法 
-
+http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YmE3MDUxYWRhNTBiNzhhYWMzMDkwNzY1ZDUwY2UwYzUmaD0xNzUuNi4xNS4xMyZ1dWlkPTE0ZTNjMjlhZTAwNzBjNjlmNTA5MjEwNTVmNzMxNGJiLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjE3NTE4NDQ,/CSZFMPP360.m3u8
 #EXTINF:-1 tvg-id="230" tvg-name="长沙女性" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/csnx.png" group-title="湖南",长沙女性 
 
