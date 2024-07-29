@@ -1,16 +1,16 @@
 x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 湖南经视, 
-http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NGVmZTJjMThjN2YzYTYyMDE0YWFjNDc5ZGNkMTJlNmImaD0xNzUuNi4xNS45JnV1aWQ9ZDQ1YzJmOTVjOTMxMmZmODczMGY1ZjdjZTg1ZTAxOWUtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMjIyNjcxMg,,/HNJSMPP360.m3u8
+
 湖南都市, 
 
 湖南电视剧, 
 
 湖南公共, 
-
+http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9N2IyZmY1MDU0ODBkZjI1ZDE4OTk0ZDg3Zjc2MTg1ZGEmaD0xNzUuNi4xNS4xMiZ1dWlkPWZiNzFhNzU5MzZkMGNhNTU3ZGZkYzA3NDM3ZmM5OTEzLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIyNDk0OTk,/HNGGMPP360.m3u8
 湖南国际, 
 
 湖南娱乐, 
-
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YjNjMzc0N2VhMTg2ZGJmNzA1MTM1MzdkNjQ0NTZmNmEmZXM9MTcyMjI0OTUwNyZ1dWlkPWFiMjdhMjk2YTFmZDc0MTMxNzJiNDc2OThmYmM2ODIzLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNYLMPP360.m3u8
 快乐购, 
 
 茶频道, 
@@ -18,14 +18,14 @@ http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NGVmZTJjMTh
 金鹰纪实, 
 
 金鹰卡通, 
-http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NjkwOGUwOGIwOTkzYWUwNzYwNDU2MmYzYzM5MmUwOTkmaD0xNzUuNi4xNS4xMyZ1dWlkPTUyZjllZTExNjBhZDM0YmY5YjFlMzgyNTNhMDRmMGQ5LWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIyMjY3MzY,/JYKTMPP360.m3u8
+
 快乐垂钓, 
 
 先锋乒羽, 
-http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MWU1MmViNjUyM2Q3MmY0MDYyNzNkZjFiOTA0NDIxMzMmaD0xNzUuNi4xNS4xMiZ1dWlkPTUzZTM0M2NkNmFkODczNjhhYzNjNTNkYjVlODRlNzc0LWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIyMjY3Mzg,/XFPYMPP360.m3u8
+
 长沙新闻, 
 
 长沙政法, 
 
 长沙女性, 
-http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YmZhOThjNWZkOTRiNmQ4ZjYzYTdiOGI4OTMzY2RmMmImaD0xNzUuNi4xNS45JnV1aWQ9N2RlNzk3YTBhOWU0YTc4ZDgyNjQ3ZTYxMTEwM2Y5NjEtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMjIyNjc0OA,,/CSNXMPP360.m3u8
+
