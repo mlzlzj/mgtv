@@ -6,11 +6,11 @@ x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/m
 湖南电视剧, 
 
 湖南公共, 
-http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9N2IyZmY1MDU0ODBkZjI1ZDE4OTk0ZDg3Zjc2MTg1ZGEmaD0xNzUuNi4xNS4xMiZ1dWlkPWZiNzFhNzU5MzZkMGNhNTU3ZGZkYzA3NDM3ZmM5OTEzLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIyNDk0OTk,/HNGGMPP360.m3u8
+
 湖南国际, 
 
 湖南娱乐, 
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YjNjMzc0N2VhMTg2ZGJmNzA1MTM1MzdkNjQ0NTZmNmEmZXM9MTcyMjI0OTUwNyZ1dWlkPWFiMjdhMjk2YTFmZDc0MTMxNzJiNDc2OThmYmM2ODIzLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNYLMPP360.m3u8
+
 快乐购, 
 
 茶频道, 
@@ -24,7 +24,7 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9
 先锋乒羽, 
 
 长沙新闻, 
-
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YzA5MTNkYmViZGJhZmJlZWRhZGMzOWU0Nzk5ZDMzMDImZXM9MTcyMjI3MDE5MyZ1dWlkPWY1MTg1NTZhOTIxZmJhN2I2NTlmNmM0ZjQ2ZDg2YjRhLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/CSXWMPP360.m3u8
 长沙政法, 
 
 长沙女性, 
