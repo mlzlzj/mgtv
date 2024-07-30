@@ -1,10 +1,10 @@
 x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 湖南经视, 
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YTgxMzAxMDRmOTA0NDljOTAwZmNhZjBmYjdiODI2OTUmZXM9MTcyMjMzNTczMyZ1dWlkPTlhZWQwMjczM2ExNDlhYjNhYTkxOGUxNmExNjYzYzljLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/HNJSMPP360.m3u8
+
 湖南都市, 
 
 湖南电视剧, 
-
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YTJjNGNlNGI2MDBkZDczMTAzZTM4N2Q2MzEyODQwMWMmZXM9MTcyMjM1NjUxMyZ1dWlkPWU5MTU2M2I0ZmJiYzA5MDFjOWQyZjgzZTkwYWM4NzY1LWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXFxX3Bob25lX2xpdmU,/HNDSJMPP360.m3u8
 湖南公共, 
 
 湖南国际, 
@@ -20,12 +20,12 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9
 金鹰卡通, 
 
 快乐垂钓, 
-http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NjZlNjU5Y2FiZTU2N2IyZjcxY2NjNmE4ODk4NjJkZmImaD0xNzUuNi4xNS4xMiZ1dWlkPWYwMGRlZDQ3ZTJmZmVlNjgwMzVhODQ3YTdmN2U4NzA0LWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIzMzU3NDM,/KLCDMPP360.m3u8
+
 先锋乒羽, 
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NTdjNWU4ZDIxZjllMDZkNzM2NzlmYTk1NDZmZDAyZWEmZXM9MTcyMjMzNTc0NCZ1dWlkPTc4YjI1ODA3NTM5YTc0ZjhiYzRlZWZjOTE1OWU4YWJmLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/XFPYMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9OTc3MGY3NTAyYTcwNWJiYmE0YmM1MjVkNWFmOTlhNzEmZXM9MTcyMjM1NjUyMiZ1dWlkPWNkYjdlNDg1MjFkYTY3Y2U2YTY2ZDZhZDcwYzFmMTljLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXFxX3Bob25lX2xpdmU,/XFPYMPP360.m3u8
 长沙新闻, 
-
+http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9OWQyN2E0ZGY1NzFlNmRjY2M3YjYxNWQ1YTdlNDRkYmMmaD0xNzUuNi4xNS4xMiZ1dWlkPTc3OWQ4MTAwZDNkNDQwYjk0Y2NjYjc0Y2NhZGY3MGZhLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIzNTY1MjM,/CSXWMPP360.m3u8
 长沙政法, 
-
+http://175.6.15.12/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9YjEwYjFiYTA5MTI5YTQyYjI0ZTFkNjJhNzJiYjk5MGMmaD0xNzUuNi4xNS4xMiZ1dWlkPTQ2MzVmZDdkOGYwMzVkZjg2M2QzOGFmYTIxMzQxNTMwLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjIzNTY1MjM,/CSZFMPP360.m3u8
 长沙女性, 
 
