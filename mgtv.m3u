@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 #EXTINF:-1 tvg-id="280" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnjs.png" group-title="湖南",湖南经视 
-
+http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MDFjYjg4MDM0M2ZmODg3Y2M2ZWVjMjlkN2M1MzY3YzgmaD0xNzUuNi4xNS45JnV1aWQ9ZTllNDlkOTEwMWYzNTYxMzUxMTdhMzJlOWRmNWQ1NjUtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMjY4MTI0NQ,,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hnds.png" group-title="湖南",湖南都市 
 
 #EXTINF:-1 tvg-id="484" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/hndsj.png" group-title="湖南",湖南电视剧 
@@ -16,9 +16,9 @@
 #EXTINF:-1 tvg-id="578" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/cpd.png" group-title="湖南",茶频道 
 
 #EXTINF:-1 tvg-id="316" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jyjs.png" group-title="湖南",金鹰纪实 
-
+http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NjQzMGViYTUzM2ExMDZjNTljNTYyMTgzNzA3NjhmZWQmaD0xNzUuNi4xNS4xMyZ1dWlkPTMwZTY3ZWE4YmQ5YzM1MDRmNmMzYTIxNDM3YTljMTYzLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjI2ODEyNTI,/JYJSMPP360.m3u8
 #EXTINF:-1 tvg-id="287" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/jykt.png" group-title="湖南",金鹰卡通 
-
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MzFlYThjYjgwMTVjMTQwZTAyMmU0OTM4ODhkYjFhNWYmZXM9MTcyMjY4MTI1MyZ1dWlkPWZlNDYwYzk3ZDk1YmZhMGE3YzliODBkNzZlZjE4ODBhLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/JYKTMPP360.m3u8
 #EXTINF:-1 tvg-id="218" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/klcd.png" group-title="湖南",快乐垂钓 
 
 #EXTINF:-1 tvg-id="329" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/mlzlzj/mgtv@main/logo/xfpy.png" group-title="湖南",先锋乒羽 
