@@ -1,6 +1,6 @@
 x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml"
 湖南经视, 
-http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MDFjYjg4MDM0M2ZmODg3Y2M2ZWVjMjlkN2M1MzY3YzgmaD0xNzUuNi4xNS45JnV1aWQ9ZTllNDlkOTEwMWYzNTYxMzUxMTdhMzJlOWRmNWQ1NjUtZGVmM2FlODQmdj0yJmFzPTAmZXM9MTcyMjY4MTI0NQ,,/HNJSMPP360.m3u8
+
 湖南都市, 
 
 湖南电视剧, 
@@ -16,9 +16,9 @@ http://175.6.15.9/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MDFjYjg4MDM
 茶频道, 
 
 金鹰纪实, 
-http://175.6.15.13/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9NjQzMGViYTUzM2ExMDZjNTljNTYyMTgzNzA3NjhmZWQmaD0xNzUuNi4xNS4xMyZ1dWlkPTMwZTY3ZWE4YmQ5YzM1MDRmNmMzYTIxNDM3YTljMTYzLWRlZjNhZTg0JnY9MiZhcz0wJmVzPTE3MjI2ODEyNTI,/JYJSMPP360.m3u8
+
 金鹰卡通, 
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTIyMi4yNDMuMTc0LjEzMiZxaWQ9JnM9MzFlYThjYjgwMTVjMTQwZTAyMmU0OTM4ODhkYjFhNWYmZXM9MTcyMjY4MTI1MyZ1dWlkPWZlNDYwYzk3ZDk1YmZhMGE3YzliODBkNzZlZjE4ODBhLWRlZjNhZTg0JnY9MiZhcz0wJmNkbmV4X2lkPXR4X3Bob25lX2xpdmU,/JYKTMPP360.m3u8
+
 快乐垂钓, 
 
 先锋乒羽, 
