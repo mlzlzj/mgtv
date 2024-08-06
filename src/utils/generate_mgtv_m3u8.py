@@ -4,18 +4,18 @@ from datetime import datetime
 def generate_m3u8_stream_with_info(urls, info_list):
     if len(urls) != len(info_list):
         raise ValueError("URLs and info list should have the same length")
-# # 生成m3u文件
-#     m3u8_content = "#EXTM3U x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
-#     for index, (url, info) in enumerate(zip(urls, info_list)):
-#         tvg_id = info.get("tvg-id", "")
-#         tvg_name = info.get("tvg-name", "")
-#         tvg_logo = info.get("tvg-logo", "")
-#         m3u8_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title=\"湖南\",{tvg_name} \n{url}\n'
-#     with open("mgtv.m3u", "w") as file:
-#         file.write(m3u8_content)
+# 生成m3u文件
+    m3u8_content = "#EXTM3U x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
+    for index, (url, info) in enumerate(zip(urls, info_list)):
+        tvg_id = info.get("tvg-id", "")
+        tvg_name = info.get("tvg-name", "")
+        tvg_logo = info.get("tvg-logo", "")
+        m3u8_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title=\"湖南\",{tvg_name} \n{url}\n'
+    with open("mgtv.m3u", "w") as file:
+        file.write(m3u8_content)
         
  # 生成txt文件
-    # m3u8_content = "x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
+    m3u8_content = "x-tvg-url=\"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.xml\"\n"
     for index, (url, info) in enumerate(zip(urls, info_list)):
         tvg_id = info.get("tvg-id", "")
         tvg_name = info.get("tvg-name", "")
@@ -143,6 +143,6 @@ def generate_live_stream_urls(stream_info_list):
 live_stream_urls = generate_live_stream_urls(stream_info_list)
 print(live_stream_urls)
 
-# generate_m3u8_stream_with_info(live_stream_urls, stream_info_list)
+generate_m3u8_stream_with_info(live_stream_urls, stream_info_list)
 
-# print("mgtv.m3u8文件已生成。")
+print("mgtv.m3u8文件已生成。")
